@@ -5,13 +5,13 @@
 
 Este repositório contém alguns projetos onde implementei em Python algoritmos amplamente utilizados na Física Computacional.
 
-➡ <b>Projeto 1: "Utilizando Python para Resolver o Problema de um Pêndulo Simples"</b>
+➡ <b>Projeto 1: Pêndulo Simples
 
-Métodos Utilizados:
+Métodos Numéricos implementados:
 
-• Método de Euler
+⏺ Método de Euler
 
-• Método do Ponto Médio
+⏺ Método do Ponto Médio
 
-• Método de Verlet
+⏺ Método de Verlet
 
