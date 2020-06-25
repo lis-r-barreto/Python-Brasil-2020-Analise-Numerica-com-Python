@@ -8,7 +8,10 @@ Este repositório contém alguns projetos onde implementei em Python algoritmos 
 ➡ <b>Projeto 1: "Utilizando Python para Resolver o Problema de um Pêndulo Simples"</b>
 
 Métodos Utilizados:
- • Método de Euler
- • Método do Ponto Médio
- • Método de Verlet
+
+• Método de Euler
+
+• Método do Ponto Médio
+
+• Método de Verlet
 
