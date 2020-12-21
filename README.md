@@ -1,6 +1,4 @@
-Este repositório contém alguns projetos onde implementei em Python algoritmos amplamente utilizados na Física Computacional.
-
-➡ <b>Projeto 1: Pêndulo Simples</b>
+## Resolvendo o Problema do Pêndulo Simples com Python
 
 Métodos Numéricos implementados:
 
